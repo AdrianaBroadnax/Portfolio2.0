@@ -6,7 +6,7 @@ export const menuItems = [
     },
     {
         title: 'Portfolio',
-        url: '#',
+        url: 'https://github.com/AdrianaBroadnax/PortfolioProject.git',
         cName: 'nav-links'
     },
     {
@@ -16,7 +16,7 @@ export const menuItems = [
     },
     {
         title: 'Resume',
-        url: '#',
+        url: 'https://docs.google.com/document/d/1ZfjJvM7Aydg9AP6AWIQKNVK_71C2uwUjBy0KWKk7Czk/edit?usp=sharing',
         cName: 'nav-links'
     }
 ]

@@ -1,5 +1,5 @@
-.NavBarItems {
-    background: linear-gradient(90deg, rgb(214, 134, 147), rgb(218, 64, 218), 100%);
+.navBarItems {
+    background: rgb(240, 4, 240);
     height: 80px;
     display: flex;
     justify-content: center;
@@ -14,4 +14,6 @@
     list-style: none;
     text-align: center;
     width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
 }
