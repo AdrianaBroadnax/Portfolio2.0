@@ -6,7 +6,7 @@ export const menuItems = [
     },
     {
         title: 'Portfolio',
-        url: 'https://github.com/AdrianaBroadnax/PortfolioProject.git',
+        url: 'https://adrianabroadnax.github.io/PortfolioProject/',
         cName: 'nav-links'
     },
     {

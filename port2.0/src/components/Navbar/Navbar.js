@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { menuItems } from "./MenuItem";
 import './Navbar.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class Navbar extends Component {
     state = { clicked: false }
