@@ -20,6 +20,7 @@ the Navbar.css is the colors used, and the nav menu as well as the font family.
 
 ## PACKAGES NEEDED
 
-In order to get this up and running I had to 
+In order to get this up and running I had to make sure i created a react app by npx create react app. then I had to make sure the importing of react aligned with the localhost. finally trying to add bootstrap.
 
 ## DEPLOYMENT
+
