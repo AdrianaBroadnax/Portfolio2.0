@@ -24,3 +24,6 @@ In order to get this up and running I had to make sure i created a react app by 
 
 ## DEPLOYMENT
 
+https://adrianabroadnax.github.io/Portfolio2.0/
+
+https://github.com/AdrianaBroadnax/Portfolio2.0.git
