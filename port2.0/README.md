@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+PORTFOLIO2.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## SRC
 
-## Available Scripts
+In the src folder we have an additional folder for the components, then we have a couple files; app.css, app.js. app.test.js, index.css, index.js, logo.svg, reportWebVitals.js, and setupTest.js. 
+The only files that I've used were the app.css and the app.js
+in the app.css thats where I styled the landing page which still needs more work.
+in the app.js i had to do all my imports like import React from 'react', importing the Navabr and the Footer.
+Then I had to make the App a function and to return the components of the landingpage. So the app would return the NavBar, a section that was needed, and a footer. I'm still working on how to get the footer to stay on the bottom.
 
-In the project directory, you can run:
+## COMPONENTS
 
-### `npm start`
+In the components folder you will have the aboutMe folder, contact, footer, and Navbar. 
+the aboutme and the contact sections are still undercontruction. 
+the the Footer folder, there is a Footer.css and a Footer.js file. in the Footer.css its me trying to move the footer to the bottom of the page instead of in the middle. In the footer.js I had to import react from 'react' and import the footer.css. Then the footer will return the default footer, inside the footer there are three diiferent lists; there will be a link to the linked in account, the github account, and a way to contact me. Moving on to the Navbar
+The Navbar is still under construction but you so have the Navbar.css, menuItem.js and Navbar.js. I also put in a buttons.css that I will move back to, but in the navbar.js I had to import the react component from react, import menuItems and the Navbar.css.
+In the navbar.js there is a ul that contains a map for menuItems. so the key index will get the item, the items className, the items url, and the item title.
+on the MenuItems.js there is an about me section that is under constuction, portfolio which takes you to my portfolio, contact which is still under constrcution, and resume that takes you to my resume via google docs.
+the Navbar.css is the colors used, and the nav menu as well as the font family.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## PACKAGES NEEDED
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+In order to get this up and running I had to 
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## DEPLOYMENT
